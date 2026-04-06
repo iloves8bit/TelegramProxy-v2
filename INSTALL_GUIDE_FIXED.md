@@ -29,7 +29,7 @@
 ### Шаг 1: Скачать скрипт
 
 ```bash
-wget -O setup_proxy_fixed.sh https://raw.githubusercontent.com/iloves8bit/TelegramProxy-v2/main/setup_proxy_fixed.sh
+wget -4 -O setup_proxy_fixed.sh https://raw.githubusercontent.com/iloves8bit/TelegramProxy-v2/main/setup_proxy_fixed.sh
 chmod +x setup_proxy_fixed.sh
 ```
 
